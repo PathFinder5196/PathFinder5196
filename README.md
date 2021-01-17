@@ -1,6 +1,6 @@
 ### Hi there, I'm Lavesh
 
-## I'm a Manager and a Developer!!
+## I'm a Team Lead and a Software Developer!!
 
 - 🌱 I’m currently working on my frontend development skills as well as data structures and algorithms
 - 🥅 2021 Goals: Contribute more and gain deeper understanding of ReactJS
